@@ -21,5 +21,5 @@ Contains the following file:
 Contains essential files for the Web API Server, Database (JSON Server), and Web Frontend module. The Web Frontend module is stored in the `templates` folder.
 
 # Project Demo
-To view a demo of the project, check out the YouTube video [here]([https://youtu.be/ImKdBB_0DGw?si=FHAnJP-pQUcLjYLM])
+To view a demo of the project, check out the YouTube video [here](https://youtu.be/ImKdBB_0DGw?si=FHAnJP-pQUcLjYLM)
 
