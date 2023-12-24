@@ -1,3 +1,4 @@
+# Boonchai Security System
 # Project Structure
 
 ## Mosquitto.conf File
@@ -21,8 +22,7 @@ To view a demo of the project, check out the YouTube video [here](https://www.yo
 
 
 
-# ระบบ Boonchai Security
-## สมาชิกในกลุ่ม
-- 64100738 นายกษิดิศ บุญชัย
-- 64111412 นายเมธานุสรณ์ สุทธิรัตน์
-- 64114069 นายเศรษฐพงษ์ เคียนเขา
+## Team Members
+- 64100738 Kasidit Boonchai
+- 64111412 Methanusorn Sutthirat
+- 64114069 Setthapong Kiankhao
