@@ -1,4 +1,9 @@
 # Boonchai Security System
+## Team Members
+- 64100738 Kasidit Boonchai
+- 64111412 Methanusorn Sutthirat
+- 64114069 Setthapong Kiankhao
+
 # Project Structure
 
 ## Mosquitto.conf File
@@ -18,11 +23,3 @@ Contains essential files for the Web API Server, Database (JSON Server), and Web
 # Project Demo
 To view a demo of the project, check out the YouTube video [here](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
-
-
-
-
-## Team Members
-- 64100738 Kasidit Boonchai
-- 64111412 Methanusorn Sutthirat
-- 64114069 Setthapong Kiankhao
