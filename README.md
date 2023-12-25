@@ -202,18 +202,23 @@ API Server ทำหน้าที่เป็นตัวติดต่อร
   - Test Case #5
     ทดสอบการแสดงผลสถานะการใช้งานห้องผ่าน Web Frontend
     <img src="img/Web_frontend/[11]unoccupied.png" alt="Alt text" title="Optional title">
+    
     ภาพผลลัพธ์การแสดงผลในหน้า Home ในกรณีที่ยังไม่มีผู้ใช้งานห้อง ณ ขณะนั้น 
     ซึ่งจะแสดงสถานะเป็น Unoccupied และไม่แสดง ID ของผู้ที่กำลังใช้งาน (N/A)
+    
     <img src="img/Web_frontend/[12]occupied.png" alt="Alt text" title="Optional title">
+    
     ภาพผลลัพธ์การแสดงผลในหน้า Home ในกรณีที่มีผู้กำลังใช้งานห้องอยู่ 
     ซึ่งจะแสดงสถานะเป็น Occupied และแสดง ID ของผู้ที่กำลังใช้งานห้องอยู่ ณ ขณะนั้น
-  - Test Case #5
+  - Test Case #6
     ทดสอบการแสดงผลประวัติการเข้าใช้งานห้องผ่าน Web Frontend
     <img src="img/Web_frontend/[13]no_open_activity.png" alt="Alt text" title="Optional title">
     <img src="img/Web_frontend/[14]no_close_acticity.png" alt="Alt text" title="Optional title">
+    
     ภาพผลลัพธ์การแสดงผลในหน้า Home ในกรณีที่ไม่พบประวัติ ผู้ที่เข้าใช้งานห้องล่าสุด
     <img src="img/Web_frontend/[15]open_activity.png" alt="Alt text" title="Optional title">
     <img src="img/Web_frontend/[16]close_activity.png" alt="Alt text" title="Optional title">
+    
     ภาพผลลัพธ์การแสดงผลในหน้า Home ซึ่งจะแสดงรายละเอียดต่าง ๆ เกี่ยวกับผู้ที่เข้าใช้งานห้องล่าสุด
     <img src="img/Web_frontend/[17]log_table.png" alt="Alt text" title="Optional title">
     ภาพผลลัพธ์การแสดงผลในหน้า Tables ในกรณีที่ไม่พบข้อมูลประวัติการใช้งานห้อง
