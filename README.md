@@ -197,27 +197,27 @@ API Server ทำหน้าที่เป็นตัวติดต่อร
     หาก Relay อยู่ในสถานะปิดหรือเปิดอยู่ ผู้ใช้งานจะไม่สามารถสั่งปิดหรือเปิดซ้ำผ่าน Web Frontend ได้
    	<img src="img/Web_frontend/[9]error.png" alt="Alt text" title="Optional title">
     ภาพผลลัพธ์การแสดงผลในหน้า Home กรณีที่ประตูปิดอยู่และผู้ใช้สั่งปิดประตู
-   	<img src="" alt="Alt text" title="Optional title">
+   	<img src="img/Web_frontend/[10]error.png" alt="Alt text" title="Optional title">
     ภาพผลลัพธ์การแสดงผลในหน้า Home กรณีที่ประตูเปิดอยู่และผู้ใช้สั่งเปิดประตู
   - Test Case #5
     ทดสอบการแสดงผลสถานะการใช้งานห้องผ่าน Web Frontend
-    <img src="" alt="Alt text" title="Optional title">
+    <img src="img/Web_frontend/[11]unoccupied.png" alt="Alt text" title="Optional title">
     ภาพผลลัพธ์การแสดงผลในหน้า Home ในกรณีที่ยังไม่มีผู้ใช้งานห้อง ณ ขณะนั้น 
     ซึ่งจะแสดงสถานะเป็น Unoccupied และไม่แสดง ID ของผู้ที่กำลังใช้งาน (N/A)
-    <img src="" alt="Alt text" title="Optional title">
+    <img src="img/Web_frontend/[12]occupied.png" alt="Alt text" title="Optional title">
     ภาพผลลัพธ์การแสดงผลในหน้า Home ในกรณีที่มีผู้กำลังใช้งานห้องอยู่ 
     ซึ่งจะแสดงสถานะเป็น Occupied และแสดง ID ของผู้ที่กำลังใช้งานห้องอยู่ ณ ขณะนั้น
   - Test Case #5
     ทดสอบการแสดงผลประวัติการเข้าใช้งานห้องผ่าน Web Frontend
-    <img src="" alt="Alt text" title="Optional title">
-    <img src="" alt="Alt text" title="Optional title">
+    <img src="img/Web_frontend/[13]no_open_activity.png" alt="Alt text" title="Optional title">
+    <img src="img/Web_frontend/[14]no_close_acticity.png" alt="Alt text" title="Optional title">
     ภาพผลลัพธ์การแสดงผลในหน้า Home ในกรณีที่ไม่พบประวัติ ผู้ที่เข้าใช้งานห้องล่าสุด
-    <img src="" alt="Alt text" title="Optional title">
-    <img src="" alt="Alt text" title="Optional title">
+    <img src="img/Web_frontend/[15]open_activity.png" alt="Alt text" title="Optional title">
+    <img src="img/Web_frontend/[16]close_activity.png" alt="Alt text" title="Optional title">
     ภาพผลลัพธ์การแสดงผลในหน้า Home ซึ่งจะแสดงรายละเอียดต่าง ๆ เกี่ยวกับผู้ที่เข้าใช้งานห้องล่าสุด
-    <img src="" alt="Alt text" title="Optional title">
+    <img src="img/Web_frontend/[17]log_table.png" alt="Alt text" title="Optional title">
     ภาพผลลัพธ์การแสดงผลในหน้า Tables ในกรณีที่ไม่พบข้อมูลประวัติการใช้งานห้อง
-    <img src="" alt="Alt text" title="Optional title">
+    <img src="img/Web_frontend/[18]log_table_recorded.png" alt="Alt text" title="Optional title">
     ภาพผลลัพธ์การแสดงผลในหน้า Tables ในกรณีที่พบข้อมูลประวัติการใช้งานห้อง ซึ่งจะแสดงรายละเอียดต่าง ๆ      เช่น วันและเวลาที่เปิดหรือปิดประตู และประตูเปิดหรือปิดโดยผู้ใช้ ID ใด
 ## สรุปผลการทดสอบ
   โครงการนี้สามารถแก้ไขปัญหาที่ได้กล่าวไปในวัตถุประสงค์ ในเรื่องของการรักษาความปลอดภัย และสามารถบันทึกข้อมูลการเข้าใช้งานห้องหรือโกดังสินค้าผ่านบัตรที่รองรับ RFID หรือกรณีที่ผู้ใช้ลืมพกบัตรหรือทำบัตรหายก็สามารถเข้าถึงข้อมูลหรือสินค้าได้ โดยการลงชื่อเข้าใช้ปละควบคุมการทำงานผ่านเว็บไซต์
